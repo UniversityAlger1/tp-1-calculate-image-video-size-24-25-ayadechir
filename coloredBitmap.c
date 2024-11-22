@@ -1,4 +1,4 @@
-Djouzi Maroua, [21/11/2024 7:47 PM]
+
 #include <string.h>
 #include "config/coloredBitmap.h"
 // Parameters:
